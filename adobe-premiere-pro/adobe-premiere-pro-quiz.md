@@ -2,7 +2,7 @@
 
 #### Q1. You open a nested sequence in order to trim the length of a clip. You make the total duration of the clips longer. What happens to the duration of the nest in the main sequence?
 
-- [ ] Nothing, the nest duration remains the same in the original sequence.
+- [x] Nothing, the nest duration remains the same in the original sequence.
 - [ ] The duration of the nest changes and an overwrite edit pushes the remaining clips to make room.
 - [ ] The clips change speed to match the duration of the nest.
 - [ ] The duration of the nest changes and a ripple edit pushes the remaining clips to make room.
@@ -11,12 +11,12 @@
 
 - [ ] Nesting improves playback performance.
 - [ ] Nesting makes it easier to reduce clutter in the Project panel, saving time and potentially project budget.
-- [ ] Nesting allows a single effect to be applied to everything that is inside the nest, like a color correction or a video limiter.
+- [x] Nesting allows a single effect to be applied to everything that is inside the nest, like a color correction or a video limiter.
 - [ ] Nesting helps Adobe Premiere Pro render faster.
 
 #### Q3. What happens on your hard drive when you create a subclip?
 
-- [ ] Nothing, since a subclip does not create a new media file on your hard drive.
+- [x] Nothing, since a subclip does not create a new media file on your hard drive.
 - [ ] A pointer file is created on your hard drive.
 - [ ] A new master clip is created on your hard drive and added to the project.
 - [ ] A new media file is created next to the original media.
@@ -26,18 +26,18 @@
 - [ ] Adobe Premiere can directly export files.
 - [ ] You can encode sequences into one or more formats with Adobe Media Encoder.
 - [ ] While using Adobe Media Encoder, you can keep working on the same sequence in Adobe Premiere Pro.
-- [ ] When you click Export, Adobe Premiere Pro will encode the file in the background and let you continue editing.
+- [x] When you click Export, Adobe Premiere Pro will encode the file in the background and let you continue editing.
 
 #### Q5. While working in Premiere Pro, how can you quickly create a new After Effects composition with settings that match the current sequence?
 
 - [ ] Select File > Adobe Dynamic Link > Import After Effects Composition.
 - [ ] Import a project from After Effects and choose Match project size when importing.
-- [ ] Select File > Adobe Dynamic Link > New After Effects Composition.
+- [x] Select File > Adobe Dynamic Link > New After Effects Composition.
 - [ ] Switch to After Effects and manually set up the project for accuracy.
 
 #### Q6. Which is NOT a tag available in the Essential Sound panel?
 
-- [ ] Narration
+- [x] Narration
 - [ ] SFX
 - [ ] Ambience
 - [ ] Music
@@ -52,7 +52,7 @@ D. Temperature
 E. Blur
 ```
 
-- [ ] B, C, D
+- [x] B, C, D
 - [ ] A, B, C
 - [ ] B, D, E
 - [ ] A, C, E
